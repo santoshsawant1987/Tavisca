@@ -1,0 +1,2 @@
+C:\Users\Santosh\Desktop\Tavisca\code-starter-kits-master\console-calculator\ConsoleCalculator.Tests\obj\Debug\ConsoleCalculator.Tests.csproj.AssemblyReference.cache
+C:\Users\Santosh\Desktop\Tavisca\code-starter-kits-master\console-calculator\ConsoleCalculator.Tests\obj\Debug\ConsoleCalculator.Tests.csproj.CoreCompileInputs.cache
